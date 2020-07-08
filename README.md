@@ -13,7 +13,7 @@
 
 
 ## Objective
-Build an application where the user is able to find a place to live within a certain price range, compar any distance and commute time.
+Build an application where the user is able to find a place to live within a certain price range, compare any distance and commute time.
 
 If the user enters the location of their job, as well as their ideal commute time then Property Mover will return a listing of appropriate housing options. Under each option will be the driving distance it takes for the user to get from their work to home.
 
